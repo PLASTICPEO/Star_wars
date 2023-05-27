@@ -6,7 +6,7 @@
     All about star wars
     <br />
     <br />
-    <a href="https://github.com/PLASTICPEO/Star_wars.git">View Demo</a>
+    <a href="https://istarwars.netlify.app/">View Demo</a>
   </p>
 </p>
 
