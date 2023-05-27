@@ -6,13 +6,13 @@
     All about star wars
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href="https://github.com/PLASTICPEO/Star_wars.git">View Demo</a>
   </p>
 </p>
 
 ### Built With
 
-- [React](https://react.dev/)
+- [vue.js](https://vue.js.org/)
 - [TailWindCSS](https://tailwindcss.com/)
 
 ## Getting Started
@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/PLASTICPEO/NLYC-assignment
+   git clone https://github.com/PLASTICPEO/Star_wars.git
    ```
 2. Install packages
    ```sh
